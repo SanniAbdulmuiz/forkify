@@ -1,2 +1,2 @@
 # forkify
-Home of recipes
+Home of recipes - My JS project
